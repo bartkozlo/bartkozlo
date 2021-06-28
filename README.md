@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
-<h3 align="center">Passionate from Poland, currently a student at the Kodilla school to become a frontend developer.</h3>
+<h3 align="center">IT enthusiast from Poland, currently a student at the Kodilla school to become a frontend developer.</h3>
 
 - 🌱 I’m currently learning **html, css, sass, node.js, git, github.**
 
